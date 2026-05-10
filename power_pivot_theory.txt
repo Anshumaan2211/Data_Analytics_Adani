@@ -1,0 +1,13 @@
+power pivot theory 
+
+~etl tool / pipeline
+
+get data from file or other now excel files then choose table
+
+do load for table format
+then add to data model.
+select all then power pivot then add to data models then pivot table 
+tap on manage for pivot table for future to connect multiple sheets for common dashboard
+make pivot table then pivot chart and then make dashboard
+
+after adding new data you can refresh to get new data by manage button
