@@ -1,124 +1,76 @@
 <div align="center">
 
-# 🚀 DATA ANALYTICS PROJECTS PORTFOLIO
+# 📊 Excel Analytics Portfolio
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Excel+Dashboard+Projects;Data+Analytics+Portfolio;Pivot+Tables+%7C+Dashboards+%7C+Insights;DA_14+Batch+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Excel+Dashboard+Projects;Data+Analytics+with+Excel" />
 
 <br>
 
-<img src="https://img.shields.io/badge/EXCEL-DASHBOARDS-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/DATA-ANALYTICS-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING-success?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Chetan-ASDC/DA_14?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 📌 About This Repository
+## 📌 About
 
-Welcome to my **Data Analytics Project Repository** 📊  
-This repository contains all lecture files, practice datasets, dashboards, and Excel analytics projects completed during the **DA_14 Batch**.
-
-The main goal of this repository is to improve:
-- 📈 Dashboard Designing
-- 📊 Data Visualization
-- 🧠 Analytical Thinking
-- ⚡ Excel Skills
-- 📉 Business Insights
+This repository contains Excel lecture files, dashboard projects, and analytics practice work completed during the **DA_14 Batch**.
 
 ---
 
-# 🗂️ Repository Structure
+# 📂 Files
 
-<div align="center">
-
-| 📚 Topic | 📂 File | ✅ Status |
+| 📚 Topic | 📄 File | ✅ Status |
 |---|---|---|
 | Logical Formulas | `lecture3.xlsx` | Completed |
-| Lookups Functions | `lookup.xlsx` | Completed |
-| Pivot Table Dashboard | `dashboard.xlsx` | Completed |
+| Lookups | `lookup.xlsx` | Completed |
+| Pivot Dashboard | `dashboard.xlsx` | Completed |
 | Restaurant Dashboard | `restaurant.xlsx` | Completed |
 | Pizza Sales Dashboard | `pizza_sales_dashboard.xlsx` | In Progress |
 | Sales Dashboard | Pending | Work in Progress |
 
-</div>
-
 ---
 
-# 🧠 Excel Concepts Covered
+# 🧠 Skills Covered
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/VLOOKUP-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/XLOOKUP-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pivot%20Tables-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dashboards-blueviolet?style=flat-square"/>
 
 </div>
 
-✔️ IF Function  
-✔️ Nested IF  
-✔️ AND / OR Functions  
-✔️ VLOOKUP  
-✔️ XLOOKUP  
-✔️ INDEX MATCH  
-✔️ Pivot Tables  
-✔️ Pivot Charts  
-✔️ Conditional Formatting  
-✔️ Dashboard Designing  
-✔️ KPI Cards  
-✔️ Business Reporting  
-
 ---
 
-# 📊 Dashboard Projects
+# 📊 Projects
 
----
-
-## 🍽️ Restaurant Dashboard
-
-📂 File: `restaurant.xlsx`
-
-### ✨ Features
+### 🍽 Restaurant Dashboard
 - Revenue Analysis
-- Monthly Sales Tracking
-- Customer Insights
-- Interactive Dashboard
-- Dynamic Charts
-- KPI Visualization
+- KPI Metrics
+- Interactive Charts
 
-<div align="center">
-
-<img width="700" src="https://user-images.githubusercontent.com/74038190/212284100-df3a6d0d-9b64-4f6c-bb1e-ef5f5e0f7f44.gif">
-
-</div>
+✅ Completed
 
 ---
 
-## 🍕 Pizza Sales Dashboard
-
-📂 File: `pizza_sales_dashboard.xlsx`
-
-### ✨ Features
+### 🍕 Pizza Sales Dashboard
+- Sales Trends
+- Revenue Insights
 - Top Selling Pizzas
-- Revenue Breakdown
-- Sales Trend Analysis
-- Order Quantity Insights
-- Interactive Filters
 
-🚧 **Status:** Under Development
+🚧 In Progress
 
 ---
 
-## 💰 Sales Dashboard
-
-### 📌 Planned Features
-- Region Wise Sales
+### 💰 Sales Dashboard
 - Profit Analysis
-- Interactive Filters
 - KPI Cards
 - Dynamic Reports
-- Business Insights
 
-🚧 **Status:** Pending
+🚧 Pending
 
 ---
 
@@ -126,25 +78,24 @@ The main goal of this repository is to improve:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=excel,github"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
-| Tool | Purpose |
-|---|---|
-| Microsoft Excel | Data Analysis |
-| Pivot Tables | Data Summarization |
-| Charts | Data Visualization |
-| Dashboards | Reporting |
-| GitHub | Project Hosting |
+---
+
+# 🌟 Special Thanks
+
+Special thanks to **Chetan Sir** for guidance and lecture materials.
+
+🔗 Repository:  
+https://github.com/Chetan-ASDC/DA_14
 
 ---
 
-# 📈 Learning Journey
+<div align="center">
 
-```text
-Data Cleaning      ██████████████░░░ 85%
-Dashboard Design   ███████████████░ 90%
-Excel Functions    ████████████████ 95%
-Data Visualization █████████████░░ 80%
-Business Insights  █████████████░░ 78%
+⭐ Excel • Dashboards • Analytics ⭐
+
+</div>
