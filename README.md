@@ -16,14 +16,7 @@
 
 ## 👨‍💻 About This Repository
 
-This repository showcases my **Excel-based Data Analytics projects**, dashboards, and practice work completed during the **DA_14 Batch**.
-
-The projects focus on:
-- 📈 Business Data Analysis
-- 📊 Dashboard Development
-- 📉 KPI Reporting
-- 🧠 Analytical Problem Solving
-- ⚡ Advanced Excel Techniques
+This repository showcases my **Excel-based Data Analytics projects**, dashboards, and practice work completed during the **Adani Saksham Skill Development course**.
 
 ---
 
@@ -71,13 +64,6 @@ The projects focus on:
 - Customer Insights
 - Monthly Performance Tracking
 - Interactive KPI Dashboard
-- Visual Reporting
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 
 </td>
 
@@ -99,14 +85,7 @@ The projects focus on:
 - Sales Trend Analysis
 - Revenue Breakdown
 - Top Product Performance
-- Order Insights
 - Dynamic Dashboard Layout
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
 
 </td>
 
@@ -126,14 +105,6 @@ The projects focus on:
 - Regional Sales Analysis
 - Profit & Loss Insights
 - KPI Metrics
-- Dynamic Reporting
-- Business Performance Visualization
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%"/>
 
 </td>
 
@@ -159,7 +130,6 @@ The projects focus on:
 Dashboard Design      ██████████████░░ 90%
 Excel Analytics       ███████████████░ 95%
 Data Visualization    █████████████░░ 85%
-Business Reporting    ████████████░░░ 80%
 ```
 
 ---
