@@ -6,4 +6,4 @@ Lookups lecture files in lookup.xlsx
 Pivot table and dashboard in dashboard.xlsx
 sales dashboard left to do
 restaurant dashboard in restaurant.xlsx
-pizza dashboard left to do
+pizza dashboard left to do in pizza_sales_dashboard.xlsx
