@@ -28,8 +28,8 @@ This repository showcases my **Excel-based Data Analytics projects**, dashboards
 | Lookup Functions | `lookup.xlsx` | ✅ Completed |
 | Pivot Dashboard | `dashboard.xlsx` | ✅ Completed |
 | Restaurant Analytics Dashboard | `restaurant.xlsx` | ✅ Completed |
-| Pizza Sales Dashboard | `pizza_sales_dashboard.xlsx` | 🚧 In Progress |
-| Sales Dashboard | Pending | 🚧 In Progress |
+| Pizza Sales Dashboard | `pizza_sales_dashboard.xlsx` | ✅ Completed |
+| Sales Dashboard | Pending | ✅ Completed |
 
 ---
 
