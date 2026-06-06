@@ -19,22 +19,22 @@ This repository contains interactive dashboards and business intelligence projec
 
 The projects demonstrate practical skills in:
 
-- 📊 Data Analysis
-- 📈 Dashboard Development
-- 📉 Business Intelligence
-- 📋 KPI Reporting
-- 📍 Data Visualization
-- 🔄 Data Transformation
+* 📊 Data Analysis
+* 📈 Dashboard Development
+* 📉 Business Intelligence
+* 📋 KPI Reporting
+* 📍 Data Visualization
+* 🔄 Data Transformation
 
 ---
 
 # 📂 Repository Structure
 
-| File | Description |
-|--------|------------|
-| 📄 Powerbi_intro.pbix | Power BI Fundamentals Project |
-| 🏏 ipl_dashboard.pbix | IPL Analytics Dashboard |
-| 💰 sales_dashboard.pbix | Sales Performance Dashboard |
+| File                    | Description                   |
+| ----------------------- | ----------------------------- |
+| 📄 Powerbi_intro.pbix   | Power BI Fundamentals Project |
+| 🏏 ipl_dashboard.pbix   | IPL Analytics Dashboard       |
+| 💰 sales_dashboard.pbix | Sales Performance Dashboard   |
 
 ---
 
@@ -43,13 +43,15 @@ The projects demonstrate practical skills in:
 ## 🏏 IPL Analytics Dashboard
 
 ### Overview
+
 Interactive dashboard designed to analyze IPL team and player performance using dynamic visualizations and KPIs.
 
 ### Features
-- Match Insights
-- Dynamic Filters & Slicers
-- Interactive KPI Cards
-- Season Performance Tracking
+
+* Match Insights
+* Dynamic Filters & Slicers
+* Interactive KPI Cards
+* Season Performance Tracking
 
 📁 File: `ipl_dashboard.pbix`
 
@@ -58,27 +60,47 @@ Interactive dashboard designed to analyze IPL team and player performance using 
 ## 💰 Sales Performance Dashboard
 
 ### Overview
+
 Business intelligence dashboard focused on monitoring revenue, profit, customer trends, and overall sales performance.
 
 ### Features
-- Revenue Analysis
-- Profit Tracking
-- KPI Reporting
-- Sales Trend Analysis
+
+* Revenue Analysis
+* Profit Tracking
+* KPI Reporting
+* Sales Trend Analysis
 
 📁 File: `sales_dashboard.pbix`
 
 ---
 
+## 📄 Power BI Fundamentals Project
+
+### Overview
+
+Foundational Power BI project focused on understanding data modeling, Power Query, report creation, and dashboard development.
+
+### Skills Demonstrated
+
+* Data Cleaning
+* Power Query
+* Data Modeling
+* Report Design
+* Visualization Techniques
+
+📁 File: `Powerbi_intro.pbix`
+
+---
+
 # 🛠 Skills Demonstrated
 
-- Power BI
-- Power Query
-- Data Modeling
-- KPI Reporting
-- Dashboard Design
-- Data Visualization
-- Data Transformation
+* Power BI
+* Power Query
+* Data Modeling
+* KPI Reporting
+* Dashboard Design
+* Data Visualization
+* Data Transformation
 
 ---
 
@@ -89,7 +111,9 @@ Power BI              █████████████░░ 85%
 Power Query           █████████████░░ 85%
 Dashboard Design      ██████████████░░ 90%
 Data Visualization    █████████████░░ 85%
+```
 
+---
 
 # 🙏 Special Thanks
 
@@ -99,10 +123,26 @@ Their support played an important role in helping me build these projects and st
 
 ---
 
+# 🎯 Future Goals
+
+I am continuously expanding this portfolio by working on new projects and improving my analytical capabilities.
+
+Upcoming additions may include:
+
+* Advanced Power BI Dashboards
+* Excel Analytics Projects
+* SQL-Based Analysis
+* Business Intelligence Case Studies
+* End-to-End Data Analytics Projects
+
+---
+
 <div align="center">
 
 ### 🚀 Learning • Building • Improving • Growing
 
 *"Turning Data Into Insights, And Insights Into Decisions."*
+
+⭐ If you found this repository useful, consider giving it a star.
 
 </div>
