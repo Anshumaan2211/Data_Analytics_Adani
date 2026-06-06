@@ -123,20 +123,6 @@ Their support played an important role in helping me build these projects and st
 
 ---
 
-# 🎯 Future Goals
-
-I am continuously expanding this portfolio by working on new projects and improving my analytical capabilities.
-
-Upcoming additions may include:
-
-* Advanced Power BI Dashboards
-* Excel Analytics Projects
-* SQL-Based Analysis
-* Business Intelligence Case Studies
-* End-to-End Data Analytics Projects
-
----
-
 <div align="center">
 
 ### 🚀 Learning • Building • Improving • Growing
