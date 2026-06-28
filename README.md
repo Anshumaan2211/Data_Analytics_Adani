@@ -49,7 +49,7 @@ The portfolio demonstrates skills in:
 ### Highlights
 - Logical Formulas
 - VLOOKUP & XLOOKUP
-- Pivot Tables
+- Pivot Table
 - KPI Reporting
 - Restaurant Dashboard
 - Pizza Sales Dashboard
